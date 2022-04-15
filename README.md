@@ -17,4 +17,8 @@
 "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe"
 ```
 
+### .NET5.0 のインストール
+![image](https://user-images.githubusercontent.com/1501327/163530763-36488b57-1d56-4ff1-85ee-ae765d0bad15.png)
+
+
 ### [旧バージョンのダウンロード](https://visualstudio.microsoft.com/ja/vs/older-downloads/)

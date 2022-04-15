@@ -12,4 +12,9 @@
 
 ## この後、再起動
 
+## インストール場所
+```
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe"
+```
+
 ### [旧バージョンのダウンロード](https://visualstudio.microsoft.com/ja/vs/older-downloads/)

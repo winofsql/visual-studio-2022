@@ -25,4 +25,4 @@
 
 
 ### 初期スキン設定
-![image](https://user-images.githubusercontent.com/1501327/163745546-1e1bf366-6687-4ad2-bbc5-c8e7b572f1eb.png)
+![image](https://user-images.githubusercontent.com/1501327/163745626-b7850a31-70e7-4d27-9c3f-9bd09c08f784.png)

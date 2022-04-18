@@ -22,3 +22,7 @@
 
 
 ### [旧バージョンのダウンロード](https://visualstudio.microsoft.com/ja/vs/older-downloads/)
+
+
+### 初期スキン設定
+![image](https://user-images.githubusercontent.com/1501327/163745546-1e1bf366-6687-4ad2-bbc5-c8e7b572f1eb.png)

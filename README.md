@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/163509959-473a1228-10c5-4539-b511-31b229f7155d.png)
 
-## この後、再起動
+## この後、再起動( Windows の状態次第 )
 
 ## インストール場所
 ```

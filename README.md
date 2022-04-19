@@ -17,7 +17,7 @@
 "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe"
 ```
 
-### [.NET5.0 のインストール](https://dotnet.microsoft.com/ja-jp/download/dotnet/5.0)
+### [.NET5.0 のインストール](https://dotnet.microsoft.com/ja-jp/download/dotnet/5.0) ( .NET6.0 のコンソールにブロックが無いので避ける )
 ![image](https://user-images.githubusercontent.com/1501327/163530763-36488b57-1d56-4ff1-85ee-ae765d0bad15.png)
 
 
